@@ -1,5 +1,5 @@
 # Material Darker for Godot
-A Godot syntax theme based on _Material Darker_ from the [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) plugin for Intellij.
+A Godot syntax theme based on _Material Darker_ from the [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui) plugin for Intellij. Has a version for both Godot V3 and V4.
 
 <img width="611" alt="Example" src="https://user-images.githubusercontent.com/76791009/221480988-6889f72e-6f2b-4387-8261-580c5bd8d779.png">
 
