@@ -1,7 +1,7 @@
 [color_theme]
 
 background_color="ff212121"
-base_type_color="ffeeffff"
+base_type_color="ffc792ea"
 bookmark_color="ffdbdbdb"
 brace_mismatch_color="ffd1243b"
 breakpoint_color="ffff786b"
